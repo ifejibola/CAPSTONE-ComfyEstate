@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Comfy</string>
+    <string name="drawerOpen">DrawerOpen</string>
+    <string name="drawerClose">DrawerClose</string>
+    <string name="sampleparagraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel luctus arcu. Aliquam erat volutpat. Duis ex massa,
+        ullamcorper vel nunc sed, placerat luctus velit. Etiam ac purus leo. Proin a sem dui. In hac habitasse platea dictumst. Nam vulputate venenatis lacus, in
+        ornare tortor facilisis eu.Morbi in fringilla purus. Phasellus tristique est id lacinia viverra. Maecenas finibus posuere elit id interdum. Proin non tellus
+        lacinia, finibus nisi at, feugiat elit. Etiam interdum libero ac enim scelerisque, eu pharetra erat rhoncus. Duis dui nisi,
+        ornare sit amet iaculis facilisis, semper vel purus. Nam id lacus orci. Morbi vestibulum porttitor elit vel vehicula. Donec et vulputate nunc, in
+        hendrerit diam. Duis quis dapibus neque. Quisque luctus cursus tortor. Aliquam erat volutpat. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel luctus arcu. Aliquam erat volutpat. Duis ex massa,
+        ullamcorper vel nunc sed, placerat luctus velit. Etiam ac purus leo. Proin a sem dui. In hac habitasse platea dictumst. Nam vulputate venenatis lacus, in
+        ornare tortor facilisis eu.Morbi in fringilla purus. Phasellus tristique est id lacinia viverra. Maecenas finibus posuere elit id interdum. Proin non tellus
+        lacinia, finibus nisi at, feugiat elit. Etiam interdum libero ac enim scelerisque, eu pharetra erat rhoncus. Duis dui nisi,
+        ornare sit amet iaculis facilisis, semper vel purus. Nam id lacus orci. Morbi vestibulum porttitor elit vel vehicula. Donec et vulputate nunc, in
+        hendrerit diam. Duis quis dapibus neque. Quisque luctus cursus tortor. Aliquam erat volutpat. Interdum et malesuada fames ac ante ipsum primis in faucibus.</string>
+</resources>
